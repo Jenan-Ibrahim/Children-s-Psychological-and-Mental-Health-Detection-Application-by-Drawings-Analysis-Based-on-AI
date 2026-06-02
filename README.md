@@ -94,11 +94,16 @@ Published in the *International Journal of Advanced Computer Science and Applica
 
 ---
 
-## Demonstration
+## 🎥 Demonstration
 
-[Project poster.pdf](https://github.com/user-attachments/files/28528843/Project.poster.pdf)
+Explore the project materials below:
 
+- 📄 **Project Poster**  
+  [View Poster](https://github.com/user-attachments/files/28528843/Project.poster.pdf)
 
+- 🎬 **Video Demonstration**  
+  [Watch Demo Video](https://heylink.me/AnamelAIApp/)
+  
 ---
 
 ## Research Impact
