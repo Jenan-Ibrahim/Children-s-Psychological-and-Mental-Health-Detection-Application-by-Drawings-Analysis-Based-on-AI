@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  <a href="researchgate.net/publication/381352877_A_Children's_Psychological_and_Mental_Health_Detection_Model_by_Drawing_Analysis_based_on_Computer_Vision_and_Deep_Learning?_sg%5B0%5D=U0fneE__L_9Mu9W_9zF69xlHTJfLYUC6bK4JNEdF95dvEaCEHQTNVoiOXBj5jUMXl3RhOdPIL3_qygpZgBG-Ce5LeUNMJTxQ8FWAuXXC.lDkUxG8iLGKVD_o4peSEUbXa_lbxP43D6EitHLR3EkiHLOgz-Z-PHx0VDBg_U8fARRv-hwLiEmDJvRdhdeEaMA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19">
+  <a href="https://www.researchgate.net/publication/381352877_A_Children's_Psychological_and_Mental_Health_Detection_Model_by_Drawing_Analysis_based_on_Computer_Vision_and_Deep_Learning" target="_blank">
     <img src="https://img.shields.io/badge/Publication-ETASR-4F46E5?style=flat-square&logo=googlescholar&logoColor=white">
   </a>
-  <a href="https://www.researchgate.net/publication/398110592_Anamel_Children's_Psychological_and_Mental_Health_Detection_Application_by_Drawing_Analysis_Based_on_AI">
+  <a href="https://www.researchgate.net/publication/398110592_Anamel_Children's_Psychological_and_Mental_Health_Detection_Application_by_Drawing_Analysis_Based_on_AI" target="_blank">>
     <img src="https://img.shields.io/badge/Publication-IJACSA-4F46E5?style=flat-square&logo=googlescholar&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/AI-Computer_Vision-10B981?style=flat-square">
