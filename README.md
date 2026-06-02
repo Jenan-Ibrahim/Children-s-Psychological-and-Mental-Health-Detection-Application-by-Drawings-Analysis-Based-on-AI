@@ -51,18 +51,18 @@ Child Drawing
 
 ---
 
-## Technologies Used
-
-## Technologies
+## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,firebase,androidstudio,figma" />
 </p>
 
-- YOLOv8 Classification
-- Computer Vision
-- Deep Learning
-- Machine Learning
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Classification-7C3AED?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-E11D48?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
 
 ---
 
