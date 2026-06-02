@@ -1,9 +1,12 @@
 # ANAMEL – Children's Psychological and Mental Health Detection Application by Drawing Analysis Based on AI
 
-![Project Status](https://img.shields.io/badge/Status-Research%20Project-blue)
-![AI](https://img.shields.io/badge/AI-Computer%20Vision-green)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Application-blue)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
+![Research](https://img.shields.io/badge/Research-Published_Papers-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+![AI](https://img.shields.io/badge/AI-Computer_Vision-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-Mobile_Application-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-Cloud_Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## Overview
 
