@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.researchgate.net/publication/381352877_A_Children's_Psychological_and_Mental_Health_Detection_Model_by_Drawing_Analysis_based_on_Computer_Vision_and_Deep_Learning" target="_blank">
+  <a href="https://www.researchgate.net/publication/381352877_A_Children's_Psychological_and_Mental_Health_Detection_Model_by_Drawing_Analysis_based_on_Computer_Vision_and_Deep_Learning">
     <img src="https://img.shields.io/badge/Publication-ETASR-4F46E5?style=flat-square&logo=googlescholar&logoColor=white">
   </a>
-  <a href="https://www.researchgate.net/publication/398110592_Anamel_Children's_Psychological_and_Mental_Health_Detection_Application_by_Drawing_Analysis_Based_on_AI" target="_blank">>
+  <a href="https://www.researchgate.net/publication/398110592_Anamel_Children's_Psychological_and_Mental_Health_Detection_Application_by_Drawing_Analysis_Based_on_AI">
     <img src="https://img.shields.io/badge/Publication-IJACSA-4F46E5?style=flat-square&logo=googlescholar&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/AI-Computer_Vision-10B981?style=flat-square">
