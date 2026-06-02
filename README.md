@@ -62,6 +62,12 @@ Child Drawing
 
 ---
 
+## AI Model Deployment
+
+The trained YOLOv8-based model was integrated into the Flutter application using TensorFlow Lite (TFLite), enabling on-device inference without requiring external API services. The application processes uploaded drawings locally and generates prediction results directly within the mobile environment.
+
+---
+
 ## Technologies & Tools
 
 <p align="left">
