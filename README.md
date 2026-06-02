@@ -121,7 +121,7 @@ This repository contains:
 * Project overview
 * Research publications information
 * System architecture
-* Screenshots and documentation
+* Demo and documentation
 
 This repository does **not** contain:
 
