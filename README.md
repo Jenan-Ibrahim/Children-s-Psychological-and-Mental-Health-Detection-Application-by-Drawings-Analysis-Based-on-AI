@@ -1,10 +1,21 @@
-# ANAMEL – Children's Psychological and Mental Health Detection Application by Drawing Analysis Based on AI
+<p align="center">
+  <img src="assets/logo.jpg" alt="ANAMEL Logo" width="180"/>
+</p>
 
-![Research](https://img.shields.io/badge/Research-Published_Papers-4F46E5?style=flat-square&logo=googlescholar&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Classification-7C3AED?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<h1 align="center">
+ ANAMEL: AI-Powered Children's Psychological and Mental Health Detection Through Drawing Analysis
+</h1>
+
+<p align="center">
+  <a href="YOUR_PAPER_1_LINK">
+    <img src="https://img.shields.io/badge/Publication-ETASR-4F46E5?style=flat-square&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="YOUR_PAPER_2_LINK">
+    <img src="https://img.shields.io/badge/Publication-IJACSA-4F46E5?style=flat-square&logo=googlescholar&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/AI-Computer_Vision-10B981?style=flat-square">
+  <img src="https://img.shields.io/badge/Model-YOLOv8-7C3AED?style=flat-square">
+</p>
 
 ## Overview
 
