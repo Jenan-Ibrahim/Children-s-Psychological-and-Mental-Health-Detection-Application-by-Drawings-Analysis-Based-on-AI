@@ -1,12 +1,10 @@
 # ANAMEL – Children's Psychological and Mental Health Detection Application by Drawing Analysis Based on AI
 
-![Research](https://img.shields.io/badge/Research-Published_Papers-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-![AI](https://img.shields.io/badge/AI-Computer_Vision-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-Mobile_Application-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-Cloud_Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Research](https://img.shields.io/badge/Research-Published_Papers-4F46E5?style=flat-square&logo=googlescholar&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Classification-7C3AED?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## Overview
 
@@ -93,34 +91,6 @@ Published in the *International Journal of Advanced Computer Science and Applica
 * Research-oriented system design.
 * Cloud-based backend integration.
 * User-friendly workflow for assessment and monitoring.
-
----
-
-## Application Screenshots
-
-### Login Screen
-
-Add screenshot here:
-
-```text
-docs/screenshots/login.png
-```
-
-### Home Screen
-
-Add screenshot here:
-
-```text
-docs/screenshots/home.png
-```
-
-### Drawing Analysis Result
-
-Add screenshot here:
-
-```text
-docs/screenshots/result.png
-```
 
 ---
 
