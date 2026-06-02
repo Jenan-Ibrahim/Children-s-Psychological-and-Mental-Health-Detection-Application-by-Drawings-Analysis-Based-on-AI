@@ -52,14 +52,16 @@ Child Drawing
 
 ## Technologies Used
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-AI_Model-purple?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-Expert-blue?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Neural_Networks-red?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-AI-green?style=flat-square)
-![Mobile Development](https://img.shields.io/badge/Mobile_Development-Flutter-informational?style=flat-square)
+## Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flutter,firebase" />
+</p>
+
+- YOLOv8 Classification
+- Computer Vision
+- Deep Learning
+- Machine Learning
 
 ---
 
